@@ -1,0 +1,19 @@
+{
+  "cow_id": "COW12345",
+  "name": "Ganga",
+  "breed": "Gir",
+  "age": 5,
+  "health_status": "Healthy",
+  "farmer": {
+    "name": "Raj Sharma",
+    "location": "Maharashtra",
+    "contact": "+91-9876543210"
+  },
+  "image": {
+    "file_name": "cow_ganga.jpg",
+    "file_path": "/images/cows/cow_ganga.jpg",
+    "upload_date": "2025-03-28T12:00:00Z",
+    "file_size_kb": 256,
+    "format": "jpg"
+  }
+}
